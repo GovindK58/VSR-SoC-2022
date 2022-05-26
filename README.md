@@ -1,9 +1,9 @@
 # Video Super Resolution
 
-This is a project as part of Seasons Of Code 2022
+This is a project to achieve Video Super Resolution. 
+This is done as part of Seasons Of Code 2022.
 
 This repo contains the weekly report.
-
 
 ### Week 1
 
