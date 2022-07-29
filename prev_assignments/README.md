@@ -1,4 +1,4 @@
-This folder contains some of the weekly assignments
+This folder contains some of the weekly assignments and some practice code while tinkering with the assignments
 
 Problem statement could be found [here]
 
