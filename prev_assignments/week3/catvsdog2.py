@@ -2,7 +2,7 @@
 couldn't train this model 
 tried various combinations of neural nets, increasing decreasing features
 accuracy comes to be 50%
-finallt i tried using tanh instead of relu
+finally i tried using tanh instead of relu
 getting around 61% accuracy
 still not achieving that 90+ % capability of cnn
 had put so many pth files, most of them are plain useless with 50% accuracy 
@@ -100,7 +100,7 @@ class Convnet(nn.Module):
 
         return out
 
-PATH = './catvsdog2vtanh.pth'
+PATH = './catvsdog2.pth'
 
 model = Convnet()
 model.load_state_dict(torch.load(PATH))
